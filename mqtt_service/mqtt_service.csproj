@@ -88,6 +88,7 @@
     <Compile Include="MQTTService.Designer.cs">
       <DependentUpon>MQTTService.cs</DependentUpon>
     </Compile>
+    <Compile Include="private_info.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="ProjectInstaller.cs">
       <SubType>Component</SubType>
